@@ -1,206 +1,263 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Anil Kumar Kushwaha
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Anil+Kumar+Kushwaha;DevOps+Engineer+%7C+Azure+%7C+Terraform;Cloud+Infrastructure+%7C+CI%2FCD+%7C+Automation" alt="Typing SVG" />
 
-### DevOps Engineer | Microsoft Azure | Terraform | CI/CD
+<h3>☁️ DevOps Engineer | Microsoft Azure | Terraform | CI/CD</h3>
 
-**Building cloud infrastructure • Automating deployments • Learning through real-world projects**
+<p>
+  <a href="https://github.com/ANIL8602">
+    <img src="https://img.shields.io/badge/GitHub-ANIL8602-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/anil-kushwaha-b53793407/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://anil8602.github.io/anil-devops-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kushwaha-b53793407/)
-[![GitHub](https://img.shields.io/badge/GitHub-ANIL8602-181717?style=for-the-badge&logo=github)](https://github.com/ANIL8602)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anil8602.github.io/anil-devops-portfolio/)
+**Learn • Build • Automate • Deploy • Troubleshoot • Improve**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an aspiring **DevOps Engineer** with hands-on experience in Microsoft Azure, Infrastructure as Code, CI/CD automation, cloud deployments, and troubleshooting.
+I'm an early-career **DevOps Engineer** with hands-on internship experience at **DevOps Insiders** and practical experience building, deploying, and troubleshooting cloud infrastructure and applications.
 
-Currently working as a **DevOps Engineer Intern at DevOps Insiders**, learning and practicing real-world DevOps workflows.
+I learn DevOps by working on hands-on projects, cloud labs, automation, and real-world deployment scenarios.
 
-- ☁️ Building and managing cloud infrastructure on Microsoft Azure
-- 🏗️ Automating infrastructure provisioning using Terraform
-- 🔄 Creating CI/CD workflows using Azure DevOps and YAML
-- 🐳 Working with Docker and application deployment
-- 🔐 Practicing cloud security and secrets management
-- 🛠️ Troubleshooting infrastructure, networking and deployment issues
-- 📚 Continuously learning DevOps and DevSecOps technologies
-
-> **My approach:** Learn → Build → Automate → Deploy → Troubleshoot → Improve
+- ☁️ Cloud Platform: Microsoft Azure
+- 🏗️ Infrastructure as Code: Terraform
+- 🔄 CI/CD: Azure DevOps YAML Pipelines
+- 🐳 Containers: Docker & containerized applications
+- 🔐 Security: Key Vault, Managed Identity, RBAC & security scanning
+- 🌐 Networking: VNets, Subnets, NSGs, Private Endpoints & DNS
+- 🖥️ OS: Linux & Windows
+- 🎓 B.E. Computer Science — Jiwaji University, Gwalior (2026)
+- 🎯 Career Focus: DevOps Engineer / Azure DevOps Engineer
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack & Tools
 
-### ☁️ Cloud Platform
+<div align="center">
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud & Infrastructure
 
-Azure Virtual Machines • Resource Groups • Storage Accounts •
-Virtual Networks • Subnets • NSGs • Public & Private IPs •
-Private Endpoints • Private DNS Zones • Key Vault •
-Managed Identity • Azure App Service • PostgreSQL Flexible Server
+<img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" />
+
+**Azure Services:** Virtual Machines · Resource Groups · Storage · VNets · Subnets · NSGs · Public/Private IP · Private Endpoint · Private DNS · Key Vault · Managed Identity · App Service · PostgreSQL Flexible Server
 
 ### 🏗️ Infrastructure as Code
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform" />
 
-Terraform • Modules • Variables • Outputs • Remote State •
-Environment-based Infrastructure • Infrastructure Automation
+Terraform · Modules · Variables · Outputs · Remote State · Environment Configuration · Infrastructure Automation
 
-### 🔄 CI/CD & Version Control
+### 🔄 DevOps & CI/CD
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azuredevops,github,git" height="48" alt="Azure DevOps Git GitHub" />
 
-Azure DevOps • YAML Pipelines • Self-hosted Agents •
-Service Connections • Git • GitHub • Branching • Pull Requests
+Azure DevOps · YAML Pipelines · Self-hosted Agents · Service Connections · Git · GitHub · Branching · Pull Requests
 
-### 🐳 Containers & Web Technologies
+### 🐳 Containers & Web Server
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" height="48" alt="Docker Kubernetes Nginx" />
 
-Docker • Containerization • Nginx • Reverse Proxy •
-Frontend & Backend Deployment • API Connectivity
+Docker · Images · Containers · Nginx · Reverse Proxy · Kubernetes Fundamentals · AKS Basics
 
-### 🔐 DevSecOps & Security Tools
+### 🔐 DevSecOps & Security
 
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />
 
-TFLint • tfsec • Trivy • Infracost • Azure RBAC •
-Secrets Management • Infrastructure Security Basics
+TFLint · tfsec · Trivy · Infracost · Azure RBAC · Secrets Management · Infrastructure Security
 
-### 💻 Operating Systems & Scripting
+### 💻 Programming & Database
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,postgres" height="48" alt="Programming and database skills" />
 
-Linux • Windows • Bash Basics • PowerShell Basics
+Python Basics · HTML · CSS · JavaScript · React · SQL · PostgreSQL · FastAPI
 
-### 💡 Programming & Database
+### 🖥️ Operating Systems & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,powershell" height="48" alt="Linux and PowerShell" />
 
-HTML • CSS • JavaScript • Python Basics • SQL • PostgreSQL
+Linux · Windows · Bash Basics · PowerShell Basics
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏭 Next.Ops.Live — Industrial Monitoring Platform
+<table>
+<tr>
+<td width="50%">
 
-A thermal power plant monitoring application designed around industrial telemetry and operational monitoring.
+### 🏭 Next.Ops.Live
 
-**Highlights**
-- Developed a frontend and backend application architecture
-- Worked with PostgreSQL for application data
-- Deployed application components on Azure Virtual Machines
-- Used Azure Database for PostgreSQL Flexible Server
-- Provisioned infrastructure using Terraform
-- Practiced application configuration and deployment troubleshooting
-- Currently exploring Azure App Service PaaS deployment
+**Industrial Monitoring Platform**
 
-**Tech Stack:** Azure • Terraform • PostgreSQL • VM • GitHub • Application Deployment
+A thermal power plant monitoring application focused on industrial telemetry.
 
-🔗 [Explore NextOps Dashboard](https://github.com/ANIL8602/NextOps-dashboard)
+- Frontend & Backend application
+- PostgreSQL database
+- Azure VM deployment
+- PostgreSQL Flexible Server
+- Terraform infrastructure
+- Application deployment & troubleshooting
+- Azure App Service deployment practice (ongoing)
+
+**Tech:** Azure · Terraform · PostgreSQL · VM
+
+<a href="https://github.com/ANIL8602/NextOps-dashboard">
+<img src="https://img.shields.io/badge/Explore_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### ⚙️ Axion System
+
+**Azure Infrastructure & Application Project**
+
+- Azure infrastructure provisioning with Terraform
+- Virtual Machines, VNets, Subnets & NSGs
+- Frontend and Backend deployment
+- Docker containers
+- Nginx reverse proxy
+- Networking & API troubleshooting
+
+**Tech:** Azure · Terraform · Docker · Nginx
+
+<a href="https://github.com/ANIL8602/axion-system-2026">
+<img src="https://img.shields.io/badge/Explore_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Azure Key Vault Lab
+
+**Secure Secrets Management**
+
+- Azure Key Vault
+- Secret management
+- App Service integration
+- Managed Identity
+- Key Vault references
+- Secure configuration practice
+
+**Tech:** Azure · Key Vault · Managed Identity · App Service
+
+</td>
+<td width="50%">
+
+### 🌐 Private Endpoint Lab
+
+**Private Azure Storage Connectivity**
+
+- Azure Storage Account
+- Private Endpoint configuration
+- Private DNS Zone
+- DNS resolution testing
+- Private HTTPS connectivity
+- Static Website hosting
+
+**Tech:** Azure Storage · Private Endpoint · DNS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔄 Terraform + Azure DevOps
+
+**Infrastructure Automation & CI/CD**
+
+- Terraform modules
+- Environment-based infrastructure
+- Azure DevOps YAML pipelines
+- Self-hosted agents
+- Service Connections
+- Remote State in Azure Storage
+- Validation & security tools
+
+**Tech:** Terraform · Azure DevOps · Git · YAML
+
+</td>
+<td width="50%">
+
+### 🌍 Personal DevOps Portfolio
+
+**Portfolio Website**
+
+- Built using web technologies
+- Hosted using GitHub Pages
+- Git and GitHub source control
+- Portfolio deployment practice
+
+**Tech:** HTML · CSS · JavaScript · GitHub Pages
+
+<a href="https://anil8602.github.io/anil-devops-portfolio/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚙️ Axion System — Cloud Infrastructure Project
+## 🔄 My DevOps Workflow
 
-A practical cloud infrastructure and application deployment project using Azure and DevOps technologies.
+```mermaid
+flowchart LR
+    A[Git & GitHub] --> B[Azure DevOps Pipeline]
+    B --> C[Terraform Validation]
+    C --> D[Plan & Review]
+    D --> E[Provision Azure Infrastructure]
+    E --> F[Application Deployment]
+    F --> G[Testing & Troubleshooting]
+    G --> H[Monitoring & Improvement]
+```
 
-**Highlights**
-- Provisioned Azure infrastructure using Terraform
-- Worked with Virtual Machines, VNets, Subnets and NSGs
-- Deployed frontend and backend services
-- Containerized application components using Docker
-- Configured Nginx reverse proxy
-- Practiced private networking and API connectivity
-- Troubleshot cloud infrastructure and application connectivity
-
-**Tech Stack:** Azure • Terraform • Docker • Nginx • Networking • Linux
-
-🔗 [View Axion System Repository](https://github.com/ANIL8602/axion-system-2026)
-
----
-
-### 🔐 Azure Key Vault & Managed Identity Lab
-
-Hands-on lab focused on secure secrets management and Azure service integration.
-
-- Created Azure Key Vault
-- Managed application secrets
-- Integrated Key Vault with Azure App Service
-- Practiced Managed Identity
-- Configured secure application settings and Key Vault references
-- Troubleshot secret access and permissions
-
-**Tech Stack:** Azure Key Vault • App Service • Managed Identity • Terraform
-
----
-
-### 🌐 Azure Private Endpoint & Storage Lab
-
-Hands-on project for private Azure Storage connectivity and DNS configuration.
-
-- Created Storage Account
-- Configured Private Endpoint
-- Worked with Private DNS Zone
-- Tested DNS resolution for private connectivity
-- Verified HTTPS connectivity
-- Configured Azure Static Website hosting
-
-**Tech Stack:** Azure Storage • Private Endpoint • Private DNS • Networking
-
----
-
-### 🔄 Terraform & Azure DevOps Automation
-
-Infrastructure automation and CI/CD practice using Terraform and Azure DevOps.
-
-- Automated Azure resource provisioning
-- Created reusable Terraform modules
-- Worked with Dev and Preprod environments
-- Configured Azure DevOps YAML pipelines
-- Practiced self-hosted agents
-- Configured service connections
-- Worked with Azure Storage remote state
-- Practiced infrastructure validation and security scanning
-
-**Tech Stack:** Terraform • Azure DevOps • YAML • GitHub • TFLint • tfsec • Trivy
+*This represents the workflow I am learning and practicing through labs and projects. Not every stage is fully automated in every project.*
 
 ---
 
 ## 📚 Currently Learning
 
-| Technology | Learning Focus |
+| Technology | Focus |
 |---|---|
-| 🐳 Docker | Images, Containers & Deployment |
-| ☸️ Kubernetes | Core concepts & orchestration |
-| ☁️ AKS | Azure Kubernetes Service fundamentals |
-| 🔄 Jenkins | CI/CD pipeline automation |
-| 📊 Prometheus | Monitoring & metrics |
+| 🐳 Docker | Images, Containers & deployment workflows |
+| ☸️ Kubernetes | Fundamentals & orchestration |
+| ☁️ AKS | Azure Kubernetes Service basics |
+| 🔄 Jenkins | CI/CD automation |
+| 📊 Prometheus | Metrics & monitoring |
 | 📈 Grafana | Dashboards & visualization |
-| 🔐 DevSecOps | Security integration in CI/CD |
-| 🚀 Azure PaaS | Application deployment using App Service |
+| 🔐 DevSecOps | Security in CI/CD |
+| ☁️ Azure PaaS | App Service deployment |
+| 🏗️ Terraform | Advanced concepts & best practices |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANIL8602&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ANIL8602&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Anil's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANIL8602&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIL8602&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ANIL8602&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=ANIL8602&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -208,21 +265,36 @@ Infrastructure automation and CI/CD practice using Terraform and Azure DevOps.
 
 ## 🎯 Career Goal
 
-My goal is to become a skilled **DevOps / Azure Cloud Engineer** by continuously improving my cloud infrastructure, automation, CI/CD, containerization, monitoring, and security skills.
+My goal is to grow into a skilled **DevOps / Azure Cloud Engineer** by building practical experience in:
 
-I am looking for opportunities where I can contribute, learn from experienced engineers, and grow through real-world projects.
+- Cloud infrastructure & architecture
+- Infrastructure as Code
+- CI/CD automation
+- Containers & orchestration
+- Monitoring & observability
+- Cloud security & DevSecOps
+
+I'm actively looking for opportunities to contribute, learn from experienced engineers, and grow through real-world engineering challenges.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anil_Kumar_Kushwaha-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anil-kushwaha-b53793407/)
+<a href="https://linkedin.com/in/anil-kushwaha-b53793407/">
+<img src="https://img.shields.io/badge/LinkedIn-Anil_Kumar_Kushwaha-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Anil's_Portfolio-00C7B7?style=for-the-badge&logo=googlechrome)](https://anil8602.github.io/anil-devops-portfolio/)
+<a href="https://github.com/ANIL8602">
+<img src="https://img.shields.io/badge/GitHub-ANIL8602-181717?style=for-the-badge&logo=github" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ANIL8602-181717?style=for-the-badge&logo=github)](https://github.com/ANIL8602)
+<a href="https://anil8602.github.io/anil-devops-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome" />
+</a>
+
+📧 **Email:** anilkushwaha8602@gmail.com
 
 </div>
 
@@ -230,8 +302,8 @@ I am looking for opportunities where I can contribute, learn from experienced en
 
 <div align="center">
 
-### ⭐ Learn. Build. Automate. Deploy. Improve.
+### ⚡ Learn • Build • Automate • Deploy • Improve
 
-*Thanks for visiting my GitHub profile!*
+**Thanks for visiting my GitHub profile! 🚀**
 
 </div>
